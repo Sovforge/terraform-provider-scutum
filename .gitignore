@@ -1,0 +1,20 @@
+# Compiled binaries
+terraform-provider-scutum
+terraform-provider-scutum_v*
+
+# Goreleaser
+dist/
+
+# Go
+*.test
+*.out
+
+# Terraform
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
+
+# IDE
+.vscode/
+.idea/
