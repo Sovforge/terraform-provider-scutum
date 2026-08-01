@@ -5,7 +5,7 @@ import (
 	"flag"
 	"log"
 
-	"github.com/Sovforge/terraform-provider-scutum/internal/provider"
+	"github.com/Sovforge/terraform-provider-scutum/provider"
 	"github.com/hashicorp/terraform-plugin-framework/providerserver"
 )
 
